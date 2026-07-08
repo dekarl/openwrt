@@ -1,0 +1,8 @@
+/dts-v1/;
+
+#include "rtl8392_zyxel_gs1920-24hp-v1.dts"
+
+/ {
+	compatible = "zyxel,gs2210-24", "realtek,rtl8392-soc";
+	model = "Zyxel GS2210-24";
+};
